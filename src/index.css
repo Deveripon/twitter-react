@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "helvetica-neue-heading";
+    src: url("./assets/fonts/Helvetica-Neue-Font/HelveticaNeuebold/HelveticaNeueLTW0693BlkExtObl.otf");
+}
+@font-face {
+    font-family: "helvetica-neue-sub-heading";
+    src: url("./assets/fonts/Helvetica-Neue-Font/HelveticaNeueMediumExtended/HelveticaNeueMediumExtended.otf");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+}
+
+@layer components {
+}
+@layer utilities {
+}
